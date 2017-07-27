@@ -17,5 +17,6 @@
   <modules>
     <module>colors</module>
     <module>cars</module>
+    <module>zuulproxy</module>
   </modules>
 </project>
