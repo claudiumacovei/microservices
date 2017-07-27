@@ -16,5 +16,6 @@
 
   <modules>
     <module>colors</module>
+    <module>cars</module>
   </modules>
 </project>
