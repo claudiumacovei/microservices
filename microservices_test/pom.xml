@@ -18,5 +18,6 @@
     <module>colors</module>
     <module>cars</module>
     <module>zuulproxy</module>
+    <module>eureka-server</module>
   </modules>
 </project>
