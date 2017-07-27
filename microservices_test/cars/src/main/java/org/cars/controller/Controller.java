@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class Controller {
-
-	@RequestMapping
+	
+	@RequestMapping("/")
 	public List<String> available() {
 		return Arrays.asList("Dacia", "Honda");
 	}
